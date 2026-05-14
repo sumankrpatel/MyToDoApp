@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My To-Do List</string>
+    <string name="title_todo">My To-Do List</string>
+    <string name="hint_task">Enter a new task</string>
+    <string name="btn_add">Add</string>
+    <string name="msg_empty">Please enter a task</string>
+    <string name="msg_removed">Task removed</string>
+    <string name="desc_delete">Delete task</string>
+</resources>
